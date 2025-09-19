@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "GamePackageName"
+#define GamePackageName "com.tencent.tmgp.cf"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
